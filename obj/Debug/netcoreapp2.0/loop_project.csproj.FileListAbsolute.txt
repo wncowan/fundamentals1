@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/bin/Debug/netcoreapp2.0/loop_project.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/bin/Debug/netcoreapp2.0/loop_project.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/bin/Debug/netcoreapp2.0/loop_project.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/bin/Debug/netcoreapp2.0/loop_project.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/bin/Debug/netcoreapp2.0/loop_project.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/obj/Debug/netcoreapp2.0/loop_project.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/obj/Debug/netcoreapp2.0/loop_project.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/obj/Debug/netcoreapp2.0/loop_project.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/obj/Debug/netcoreapp2.0/loop_project.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/loop_project/obj/Debug/netcoreapp2.0/loop_project.pdb
